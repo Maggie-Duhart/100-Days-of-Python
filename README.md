@@ -1,2 +1,2 @@
 # 100-Days-of-Python
-The Foundations
+Day 1 - 10: The Foundations
