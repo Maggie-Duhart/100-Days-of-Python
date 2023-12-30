@@ -21,3 +21,26 @@ Day 7: Hangman <br>
 Day 8: Function Parameters <br>
 Day 9: Dictionaries, Nesting, and the Secret Auction <br>
 Day 10: Functions with Output <br>
+
+## Day 11 - 30: Diving into Functions and Modules
+Day 11: The BlackJack Project <br>
+Day 12: Scope & Number Guessing Game <br>
+Day 13: Debugging, how to fix errors in my code <br>
+Day 14: Higher Lower Game Project <br>
+Day 15: Local Development Environment and the Coffee Machine Project <br>
+Day 16: OOP <br>
+Day 17: Quiz Project and the Benefits of OOP <br>
+Day 18: Turtle & GUI <br>
+Day 19: Instances, State and Higher Order Functions <br>
+Day 20: Build the Snake Game: Animation and Coordinates <br>
+Day 21: Build the Snake Game: Inheritance and List Slicing <br>
+Day 22: Build Pong <br>
+Day 23: The Turtle Crossing Project <br>
+Day 24: Files, Dictionaries and Path <br>
+Day 25: Working with CSV Data and Pandas Library <br>
+Day 26: List Comprehension and the NATO Alphabet <br>
+Day 27: Tkinter, *args, **kwargs and creating GUI programs <br>
+Day 28: Tkinter, Dynamic Typing and the Pomodoro GUI App <br>
+Day 29: Building a password Manager GUI App with Tkinter <br>
+Day 30: Errors, Exceptions and JSON Data <br>
+
